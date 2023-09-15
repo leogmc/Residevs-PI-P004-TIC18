@@ -54,4 +54,7 @@ int main (void) {
     cout << "O maior valor representado pelo tipo unsigned int é: " << numeric_limits<unsigned int>::max() << endl;
 
     ui = 4294967295;
+    cout << "ui: " << ui << endl; 
+
+    return 0;
 }
