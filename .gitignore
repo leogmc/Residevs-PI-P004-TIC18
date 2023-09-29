@@ -1,2 +1,10 @@
+
+# vscode
+.vscode
+
+# folders
+output/
+
 *.exe
-.vscode/
+
+
